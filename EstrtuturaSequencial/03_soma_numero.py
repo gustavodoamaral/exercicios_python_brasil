@@ -1,5 +1,3 @@
-#Faça um Programa que peça dois números e imprima a soma.
-
 firstnumber = int(input('Digite o primeiro número: '))
 secondnumber = int(input('Digite o segundo número: '))
 

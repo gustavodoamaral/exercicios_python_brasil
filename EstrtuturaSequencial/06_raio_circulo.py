@@ -1,5 +1,3 @@
-#Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
-
 raio = int(input('Descubra a área de um circulo a partir de seu raio.\nDigite o raio: '))
 
 pi = 3.14
