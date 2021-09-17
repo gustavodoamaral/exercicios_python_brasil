@@ -3,5 +3,7 @@ segundoNumero = float(input('Informe o segundo número: '))
 
 if primeiroNumero > segundoNumero:
     print(f'{primeiroNumero} é o maior número')
-else:
+elif primeiroNumero < segundoNumero:
     print(f'{segundoNumero} é o maior número')
+else:
+    print('Os número são iguais')
