@@ -1,4 +1,4 @@
-raio = int(input('Descubra a área de um circulo a partir de seu raio.\nDigite o raio: '))
+raio = int(input('Descubra área de um circulo a partir de seu raio.\nDigite o raio: '))
 
 pi = 3.14
 

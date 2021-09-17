@@ -1,4 +1,4 @@
-metros = int(input('Converta metros em centímetros\nDigite a quantidade em metros: '))
+metros = int(input('Converta metros em centímetros\nDigite a quantidade em metros : '))
 
 centimetros = metros*100
 

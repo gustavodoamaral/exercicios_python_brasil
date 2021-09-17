@@ -1,5 +1,5 @@
-celsius = int(input('Degrees in Celsius: '))
+celsius = int(input('Graus em Celsius: '))
 
-fahrenheit = (C*1.8) + 32
+fahrenheit = (celsius*1.8) + 32
 
-print(f'Converted to Fahrenheit are: {F:.2f}')
+print(f'A temperatura em Fahrenheit é: {fahrenheit:.2f}')

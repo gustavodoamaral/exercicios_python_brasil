@@ -1,14 +1,15 @@
-number1 = int(input('Enter an integer: '))
-number2 = int(input('Enter an integer: '))
-number3 = float(input('Enter a real number: '))
+primeiroNumero = int(input('Digite um inteiro: '))
+segundoNumero = int(input('Digite um inteiro: '))
+terceiroNumero = float(input('Digite qualquer numero real: '))
 
-double1_sum_half2 = (number1 * 2) + (number2/2)
-triple1_sum_3 = (number1 * 3) + number3
-third_cube = number3**3
+dobroPrimeiro_soma_metadeSegundo = (primeiroNumero * 2) + (segundoNumero/2)
+triploPrimeiro_soma_terceiroNumero = (primeiroNumero * 3) + terceiroNumero
+cuboTerceiro = terceiroNumero**3
 
-print(f'The product of double the first with half the second is: {double1_sum_half2}')
-print(f'The triple sum of the first and the third {triple1_sum_3}')
-print(f'the third to the cubethe third to the cube {third_cube}')
+
+print(f'The product of double the first with half the second is: {dobroPrimeiro_soma_metadeSegundo}')
+print(f'The triple sum of the first and the third {triploPrimeiro_soma_terceiroNumero}')
+print(f'the third to the cubethe third to the cube {cuboTerceiro}')
 
 
 

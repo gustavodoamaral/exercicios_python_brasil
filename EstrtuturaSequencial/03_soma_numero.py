@@ -1,6 +1,6 @@
-firstnumber = int(input('Digite o primeiro número: '))
-secondnumber = int(input('Digite o segundo número: '))
+primeiroNumero = int(input('Digite o primeiro número: '))
+segundoNumero = int(input('Digite o segundo número: '))
 
-sum = firstnumber + secondnumber 
+soma = primeiroNumero + segundoNumero
 
-print(f'A soma dos dois números é: {sum}')
+print(f'A soma dos dois números é: {soma}')

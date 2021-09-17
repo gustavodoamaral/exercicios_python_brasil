@@ -1,10 +1,10 @@
-peso_de_peixes = float(input("Informe os quilos: "))
+pesoPeixes = float(input("Informe os quilos: "))
 
-excesso = peso_de_peixes - 50
+excesso = pesoPeixes - 50
 
 multa = int(excesso) * 4
 
-print(f'Você possui {peso_de_peixes}: Kg. de peixes '
+print(f'Você possui {pesoPeixes}: Kg. de peixes '
       f'\nForam excedidos: {excesso} Kg. '
       f'\nO valor da multa é: {multa} (R$ 4,00 por Kg excedente.)')
 

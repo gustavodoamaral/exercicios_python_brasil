@@ -1,6 +1,6 @@
-hourly_earnings = float(input('How much do you earn per hour? '))
-worked_hours = int(input('Number of hours worked in the month: '))
+valorHora = float(input('Quanto você ganha por hora?: '))
+horasTrabalhadas = int(input('Quantas horas você trabalhou?: '))
 
-remuneration = worked_hours * hourly_earnings
+remuneracao = horasTrabalhadas * valorHora
 
-print(f'The amount of your compensation this month is: {remuneration}')
+print(f'The amount of your compensation this month is: {remuneracao}')

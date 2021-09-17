@@ -1,7 +1,7 @@
 print('')
 
-F = int(input('Temperature in Fahrenheit: '))
+fahrenheit = int(input('Temperatura em Fahrenheit: '))
 
-C = 5 * ((F-32)/9)
+celsius = 5 * ((fahrenheit-32)/9)
 
-print(f'Its temperature in Celsius is: {C:.4f}')
+print(f'A temperatura em graus Celsius é: {celsius:.4f}')
