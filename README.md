@@ -1,2 +1,2 @@
-# exercicios-python-brasil
- Lista de desafios resolvidos para aprendizado da linguagem python disponíveis no site "Python Brasil"  https://wiki.python.org.br/ListaDeExercicios
+# Exércicios: PYTHON BRASIL
+Desafios para aprendizado da linguagem python propostos no site "Python Brasil"  https://wiki.python.org.br/ListaDeExercicios
