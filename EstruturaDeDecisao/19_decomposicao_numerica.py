@@ -2,7 +2,7 @@ numero = int(input('Informe um número inteiro menor que 1000: '))
 
 centenas = int(numero / 100)
 unidades = int(numero % 10)
-dezenas = int((numero - unidades) / 10)
+dezenas = int(((numero - unidades) / 10) % 10)
 
 saidac = str
 saidau = str
