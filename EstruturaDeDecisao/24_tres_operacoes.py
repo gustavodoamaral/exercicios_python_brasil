@@ -19,7 +19,6 @@ elif operacao == '4':
 else: 
     print('Escolha uma das 4 opções disponíveis! ;)')
 
-
 if round(resultado) == resultado: 
     if int(resultado) % 2 == 0: 
         imparPar = 'Par'
@@ -28,14 +27,12 @@ if round(resultado) == resultado:
 else: 
     imparPar = 'Apenas números inteiros podem ser classificados em "Impar ou Par"' 
 
-
 if resultado > 0: 
     positivoNegativo = 'Positivo'
 elif resultado < 0: 
     positivoNegativo = 'Negativo'
 else: 
     positivoNegativo = 'Neutro'
-
 
 if round(resultado) == resultado: 
     inteiroDecimal = 'Inteiro'
