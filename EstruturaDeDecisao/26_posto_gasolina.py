@@ -27,4 +27,4 @@ if combustivel == 'G':
         valorLitroG = valorLitroG * quantidadeLitros
         valorTotal = valorLitroG - (valorLitroG * (desconto/100))
 
-print(f'O valor total a ser pago é {valorTotal}')
+print(f'O valor total a ser pago é: R$ {valorTotal}')
